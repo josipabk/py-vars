@@ -16,4 +16,4 @@ spol = "žensko"
 # Četverokut
 a = 5
 b = 3
-povrsina = a * b
+povrsina = (a * b)/2
