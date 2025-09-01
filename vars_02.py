@@ -10,7 +10,7 @@ prezime = 'Baljkas Klisović'
 godina_rodenja = 1981
 drzava_rodenja = 'Hrvatska'
 status_radnog_odnosa = 'zaposlena'
-tezina = 12
+tezina = 12.43
 spol = 'žensko'
 
 # Četverokut
