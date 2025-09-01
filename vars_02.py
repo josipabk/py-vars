@@ -5,13 +5,13 @@ Kreirajte varijable (imenujte ih i dodijelite im odgovarajuću vrijednost) za:
 '''
 
 # Osobni podaci
-ime = "Josipa"
-prezime = "Baljkas Klisović"
+ime = 'Josipa'
+prezime = 'Baljkas Klisović'
 godina_rodenja = 1981
-drzava_rodenja = "Hrvatska"
-status_radnog_odnosa = "zaposlena"
+drzava_rodenja = 'Hrvatska'
+status_radnog_odnosa = 'zaposlena'
 tezina = 12
-spol = "žensko"
+spol = 'žensko'
 
 # Četverokut
 a = 5
