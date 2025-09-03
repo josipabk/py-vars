@@ -3,38 +3,45 @@
 '''
 Potrebno je kreirati variajble u kojima će biti pohranjene proizvoljne dužine trokuta.
 '''
-a = 5
-b = 7
-c = 10
+avg_score = 5
+b = 6
+c = 7
+
 
 '''
 Potrebno je kreirati variajble u kojima će biti pohranjeni podaci o filmu: naziv filma, 
 godina proizvodnje, proječna ocjena, kratki opis
 '''
-naziv_filma = "Inception"
-godina_proizvodnje = 2010
-prosjecna_ocjena = 8.8
-kratki_opis = "Film o snovima unutar snova."
+movie = 'The Matrix'
+release_year = 1999
+avg_score = 9.99
+summary = 'Lorem ipsum dolor sit ...'
+
 
 '''
 Potrebno je kreirati variajble u kojima će biti pohranjeni podaci o imenu i prezimenu studenta, 
 završnoj ocjeni te podataka je li diplomirao ili nije
 '''
-ime_prezime = "Ivan Horvat"
-zavrsna_ocjena = 4.5
-diplomirao = True
+first_name = 'Pero'
+last_name = 'Peric'
+final_score = 4.98
+is_graduated = True
+
 
 '''
 Kreirati varijablu za čuvanje podataka o studentu: ime i prezime, OIB, email, 
 broj telefona, prosječna ocjena, godina upisa studija, naziv studija, naziv sveučilišta
 '''
-student = {
-    "ime_prezime": "Ana Anić",
-    "OIB": "12345678901", #11 znamenki
-    "email": "ana.anic@gmail.com",
-    "telefon": "+385911234567",
-    "prosjecna_ocjena": 4.2,
-    "godina_upisa": 2021,
-    "naziv_studija": "Računarstvo",
-    "sveuciliste": "Sveučilište u Zagrebu"
-}
+# Opcija 1
+student = 'Pero Peric; 12345678901; pero.peric@email.com; ...'
+
+# Opcija 2 - autor Bojan Kuljić
+first_name = 'Ana'
+last_name = 'Horvat'
+oib = '12345678901' # 11 znamenki
+email = 'ana.horvat@example.com',
+telefon = '+385 91 123 4567',
+prosjek = 4.31,
+godina_upisa = 2022,
+studij = 'Računarstvo',
+sveuciliste = 'Sveučilište u Zagrebu'
