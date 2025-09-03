@@ -30,7 +30,7 @@ broj telefona, prosječna ocjena, godina upisa studija, naziv studija, naziv sve
 '''
 student = {
     "ime_prezime": "Ana Anić",
-    "OIB": "12345678901",
+    "OIB": "12345678901", #11 znamenki
     "email": "ana.anic@gmail.com",
     "telefon": "+385911234567",
     "prosjecna_ocjena": 4.2,
